@@ -1,0 +1,45 @@
+.nav2{
+    background-color: rgb(12, 125, 211);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10vh;
+    border-bottom: 1px solid black;
+}
+.navleft{
+    text-align:left;
+    margin-left: 10px;
+}
+.navleft ul {
+    list-style:none;
+    background-color:white;
+}
+.navleft ul li{
+    display:inline-block;
+    position:relative;
+}
+.navleft ul li a{
+    display: block;
+    padding: 20px 20px;
+    color:black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+}
+.navleft ul li ul.dropdown li{
+    display:block;
+}
+.navleft ul li ul.dropdown{
+    width: 100%;
+    background-color: blue;
+    position:absolute;
+    z-index:999;
+    display:none;
+
+}
+.navleft ul li a:hover{
+    background-color: blue;
+}
+.navleft ul li:hover ul.dropdown{
+    display: block;
+}

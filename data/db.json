@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "The Wonders of Coral Reefs",
+      "author": "Alice Waters",
+      "id": "1",
+      "text": "Coral reefs are vibrant marine ecosystems teeming with life. They serve as homes to countless species of fish, invertebrates, and marine plants, playing a crucial role in maintaining ocean biodiversity."
+    },
+    {
+      "title": "Exploring the Deep Sea",
+      "author": "James Ocean",
+      "id": "2",
+      "text": "The deep sea is a mysterious and largely unexplored part of the ocean. It lies below 200 meters, where sunlight cannot penetrate, and hosts unique creatures that have adapted to extreme conditions."
+    },
+    {
+      "title": "Mangroves: The Coastal Guardians",
+      "author": "Maria Coastline",
+      "id": "3",
+      "text": "Mangroves are coastal forests that provide vital protection against erosion and storm surges. These ecosystems are nurseries for many marine species and play a key role in carbon sequestration."
+    },
+    {
+      "title": "The Mesopelagic Zone: Twilight in the Ocean",
+      "author": "David Depths",
+      "id": "4",
+      "text": "The mesopelagic zone, also known as the twilight zone, extends from 200 to 1000 meters below the ocean's surface. In this dimly lit region, bioluminescent organisms thrive, illuminating the dark waters."
+    },
+    {
+      "id": "a6a6",
+      "title": "New Coastlines",
+      "text": "As global warming continues to occur new coastlines are shaped by rising sea levels.",
+      "author": "Ocean"
+    },
+    {
+      "id": "300a",
+      "title": "Blue Waters",
+      "text": "The blue coloration of sea water is due to the way light refracts through different substances.",
+      "author": "Ocean"
+    },
+    {
+      "id": "6831",
+      "title": "Archipelagos",
+      "text": "Chains of islands - like the Galapagos islands - are called Archipelagos.",
+      "author": "Ocean"
+    },
+    {
+      "id": "42ea",
+      "title": "Cold Waters",
+      "text": "The frigid waters of the northern oceans are some of the most inhospitable places for human life.",
+      "author": "Ocean"
+    }
+  ]
+}
