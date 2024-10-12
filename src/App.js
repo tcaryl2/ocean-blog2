@@ -13,6 +13,7 @@ function App() {
   const person = {name: 'Pelagio', age: 24}
   const link = "https://en.wikipedia.org/wiki/Archipelago"
   const link_name = "Wikipedia's Archipelago page"
+  const my_const = 3
 
   return (
     <Router>
